@@ -8,6 +8,10 @@ Code for registering custom error pages in Sitefinity and custom section with us
 * Visual Studio 2012
 * Microsoft SQL Server 2008R2 or later versions
 
+### License information
+
+This project has been released under the Apache License, version 2.0, the text of which is included in the repository.
+
 ### Installation instructions
 
 * Clone the repository to your file system
