@@ -29,5 +29,5 @@ This project has been released under the Apache License, version 2.0, the text o
 ### Additional resources:
 
 For more detailed explanation on the code see:
-[My personal blog - Sitefinity tips and tricks]()
+[My personal blog - Sitefinity tips and tricks](http://www.sitefinitytipsandtricks.net/2015/03/01/create-custom-error-pages-in-sitefinity/)
 
